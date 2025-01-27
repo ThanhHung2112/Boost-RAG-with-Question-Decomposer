@@ -1,0 +1,33 @@
+/* Dot styling */
+.dot {
+    display: inline-block;
+    width: 4px;
+    height: 4px;
+    margin-right: 4px;
+    border-radius: 50%;
+    animation: bounce 1s infinite ease-in-out;
+}
+
+/* Jumping (Bouncing) animation */
+@keyframes bounce {
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-4px);
+    }
+}
+
+.bounce {
+    animation-delay: 0s;
+}
+
+.bounce2 {
+    animation-delay: 0.2s;
+}
+
+.bounce3 {
+    animation-delay: 0.4s;
+}

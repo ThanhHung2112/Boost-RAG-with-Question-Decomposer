@@ -1,0 +1,71 @@
+markdown/*
+
+app/json/*
+app/pdfs/*
+app/models/*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Config files
+*.env
+*.ini
+*.toml
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Cache files
+*.cache
+*.pytest_cache/
+*.mypy_cache/
+*.hypothesis/
+.coverage
+.coverage.*
+.cache/
+
+# Testing output
+junit*.xml
+
+# Distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Static files
+staticfiles/
+*.static/
+*.media/
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Others
+.DS_Store
+Thumbs.db
+
+markdown/
+app/json/
+app/pdfs/
+app/models/colbert
+app/models/colbert-*
+app/models/question_decomposer
+app/.env

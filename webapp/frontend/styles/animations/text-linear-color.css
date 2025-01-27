@@ -1,0 +1,43 @@
+.animated-text {
+    font-weight: bold;
+    color: #ccc;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.animated-text::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 200%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent 40%, white 50%, transparent 70%);
+    animation: text-slide 3s linear infinite;
+}
+
+.animated-text::after {
+    content: 'Text Animation Effect';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #ccc;
+    background: inherit;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    z-index: 1;
+}
+
+@keyframes text-slide {
+    0% {
+        left: -100%;
+    }
+
+    100% {
+        left: 100%;
+    }
+}
