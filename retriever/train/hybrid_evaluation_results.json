@@ -1,0 +1,32 @@
+{
+  "hybrid_k3_results": {
+    "Hybrid_MRR@1": 0.16666666666666666,
+    "Hybrid_MAP@1": 0.16666666666666666,
+    "Hybrid_Recall@1": 0.16666666666666666,
+    "Hybrid_Precision@1": 0.16666666666666666,
+    "Hybrid_NDCG@1": 0.16666666666666666
+  },
+  "hybrid_alpha_results": {
+    "alpha_0.3": {
+      "Hybrid_MRR@1": 0.16666666666666666,
+      "Hybrid_MAP@1": 0.16666666666666666,
+      "Hybrid_Recall@1": 0.16666666666666666,
+      "Hybrid_Precision@1": 0.16666666666666666,
+      "Hybrid_NDCG@1": 0.16666666666666666
+    },
+    "alpha_0.5": {
+      "Hybrid_MRR@1": 0.16666666666666666,
+      "Hybrid_MAP@1": 0.16666666666666666,
+      "Hybrid_Recall@1": 0.16666666666666666,
+      "Hybrid_Precision@1": 0.16666666666666666,
+      "Hybrid_NDCG@1": 0.16666666666666666
+    },
+    "alpha_0.7": {
+      "Hybrid_MRR@1": 0.16666666666666666,
+      "Hybrid_MAP@1": 0.16666666666666666,
+      "Hybrid_Recall@1": 0.16666666666666666,
+      "Hybrid_Precision@1": 0.16666666666666666,
+      "Hybrid_NDCG@1": 0.16666666666666666
+    }
+  }
+}

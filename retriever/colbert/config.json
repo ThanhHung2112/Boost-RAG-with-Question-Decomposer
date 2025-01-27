@@ -1,0 +1,9 @@
+{
+  "query_maxlen": 128,
+  "doc_maxlen": 128,
+  "mask_punctuation": true,
+  "dim": 128,
+  "similarity_metric": "cosine",
+  "model_name": "bert-base-uncased",
+  "model_type": "colbert"
+}
