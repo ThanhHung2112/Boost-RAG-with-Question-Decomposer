@@ -20,8 +20,21 @@ The system is particularly suited for organizations that require a secure, local
 3. **Topic Modeling with FASTopic**: Clusters data into topics for faster and more efficient retrieval.
 4. **Local Deployment**: Ensures data security and full control over the knowledge base.
 
+### DEMO 
+
+https://github.com/user-attachments/assets/1beb0f96-0926-4119-a767-279354468cd5
+
+### VECTOR DATABASE
+
+https://github.com/user-attachments/assets/5c0cc9bf-92cb-4e60-a212-d4d2965e162d
+
 ## Usage
 The chatbot system is designed to be user-friendly, with a straightforward interface for querying the internal knowledge base. Users can interact with the chatbot to retrieve information, and administrators can easily update or modify the knowledge base as needed.
+
+To run this project, please refer to: 
+- [Frontent](https://github.com/ThanhHung2112/Boost-RAG-with-Question-Decomposer/tree/main/webapp/fronent) 
+- [Backend](https://github.com/ThanhHung2112/Boost-RAG-with-Question-Decomposer/tree/main/webapp/backend)
+
 
 ## Future Work
 - Further optimization of retrieval algorithms for improved accuracy and speed.
