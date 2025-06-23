@@ -44,9 +44,9 @@ ollama pull gemma2:9b
 ```
 ## Acknowledged
 
-- [NLU I Information Retrieval](https://www.youtube.com/watch?v=EDVqG86AT0Q)
-- [Retrieval Augmented Language Models](https://www.youtube.com/watch?v=mE7IDf2SmJg&t=3368s)
-- [Neural IR](https://www.youtube.com/watch?v=KQMuiO59rGM&list=LL&index=7)
+- ![YouTube](https://img.icons8.com/ios-filled/16/000000/youtube-play.png) [NLU I Information Retrieval](https://www.youtube.com/watch?v=EDVqG86AT0Q)
+- ![YouTube](https://img.icons8.com/ios-filled/16/000000/youtube-play.png) [Retrieval Augmented Language Models](https://www.youtube.com/watch?v=mE7IDf2SmJg&t=3368s)
+- ![YouTube](https://img.icons8.com/ios-filled/16/000000/youtube-play.png) [Neural IR](https://www.youtube.com/watch?v=KQMuiO59rGM&list=LL&index=7)
 - [gemma2](https://ollama.com/library/gemma2)
 - [neo4j](https://neo4j.com/)
 - [T5](https://paperswithcode.com/paper/exploring-the-limits-of-transfer-learning)
