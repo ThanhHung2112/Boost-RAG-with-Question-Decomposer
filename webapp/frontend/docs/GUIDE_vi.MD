@@ -11,10 +11,6 @@
 - Hỗ trợ thực hiện Drop and Drag File PDF.
 - Xem file PDF trực tiếp bên trong cuộc hội thoại
 
-# Demos
-
-# Technical Stack
-
 # Getting Started
 ## Installation
 
