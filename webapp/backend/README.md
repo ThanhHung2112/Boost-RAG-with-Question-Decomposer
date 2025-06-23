@@ -34,6 +34,10 @@ python app/worker.py
 
 ## Acknowledged
 
-https://www.youtube.com/watch?v=EDVqG86AT0Q
-https://www.youtube.com/watch?v=mE7IDf2SmJg&t=3368s
-https://ollama.com/library/gemma2
+- [NLU I Information Retrieval](https://www.youtube.com/watch?v=EDVqG86AT0Q)
+- [Retrieval Augmented Language Models](https://www.youtube.com/watch?v=mE7IDf2SmJg&t=3368s)
+- [Neural IR](https://www.youtube.com/watch?v=KQMuiO59rGM&list=LL&index=7)
+- [gemma2](https://ollama.com/library/gemma2)
+- [neo4j](https://neo4j.com/)
+- [T5](https://paperswithcode.com/paper/exploring-the-limits-of-transfer-learning)
+- [ColBERT](https://github.com/stanford-futuredata/ColBERT)
