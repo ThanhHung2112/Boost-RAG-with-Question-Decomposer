@@ -2,7 +2,7 @@
 
 ## Models
 
-Create models dir flow path "./app/models/question_decomposer" and "./app/models/colbert/" then leave these models.
+Create models dir flow path `./app/models/question_decomposer` and `./app/models/colbert/` then leave these models.
 
 - [Question decomposer model](https://huggingface.co/thenHung/question_decomposer_t5)
 - [Colbert Model](https://huggingface.co/thenHung/Colbert_reranking/)
