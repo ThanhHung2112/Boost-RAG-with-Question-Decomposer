@@ -33,7 +33,15 @@ python app
 python app/worker.py
 ```
 
+## Download LLM and run locally via Ollama
 
+1. Install [Ollama](https://ollama.com/library)
+2. Download gemma models:
+```
+ollama pull gemma2:2b
+ollama pull gemma2:9b
+...
+```
 ## Acknowledged
 
 - [NLU I Information Retrieval](https://www.youtube.com/watch?v=EDVqG86AT0Q)
