@@ -22,7 +22,9 @@ The system is particularly suited for organizations that require a secure, local
 
 ### DEMO 
 
-https://github.com/user-attachments/assets/1beb0f96-0926-4119-a767-279354468cd5
+Watch the demo video by clicking on the image below 👇🏻
+
+[![Watch the video](https://img.youtube.com/vi/AuY1pRZmzHE/maxresdefault.jpg)](https://www.youtube.com/watch?v=AuY1pRZmzHE)
 
 ### VECTOR DATABASE
 
