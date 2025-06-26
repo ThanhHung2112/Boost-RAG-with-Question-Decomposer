@@ -23,7 +23,7 @@ The system is particularly suited for organizations that require a secure, local
 ### Workflows
 
 <div align="center">
-  <img width="917" alt="Screenshot 2025-06-26 at 09 27 30" src="https://github.com/user-attachments/assets/32e365be-4877-4f07-8500-dce6ba0a26a9" />
+  <img width="874" alt="Screenshot 2025-06-26 at 09 45 01" src="https://github.com/user-attachments/assets/c67dc224-5bf6-4cb5-84cd-859d7a2c2272" />
 </div>
 
 ### Demo 
