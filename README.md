@@ -20,19 +20,19 @@ The system is particularly suited for organizations that require a secure, local
 3. **Topic Modeling with FASTopic**: Clusters data into topics for faster and more efficient retrieval.
 4. **Local Deployment**: Ensures data security and full control over the knowledge base.
 
-## WORKFLOW
+### Workflows
 
 <div align="center">
   <img width="917" alt="Screenshot 2025-06-26 at 09 27 30" src="https://github.com/user-attachments/assets/32e365be-4877-4f07-8500-dce6ba0a26a9" />
 </div>
 
-### DEMO 
+### Demo 
 
 Watch the demo video by clicking on the image below 👇🏻
 
 [![Watch the video](https://img.youtube.com/vi/AuY1pRZmzHE/maxresdefault.jpg)](https://www.youtube.com/watch?v=AuY1pRZmzHE)
 
-### VECTOR DATABASE
+### Vector Database
 
 https://github.com/user-attachments/assets/5c0cc9bf-92cb-4e60-a212-d4d2965e162d
 
